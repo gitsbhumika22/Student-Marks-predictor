@@ -5,12 +5,12 @@ An end-to-end Machine Learning project that predicts a student's exam marks base
 
 ## Live Demo
 
-**Website:** https://your-streamlit-link.streamlit.app
+**Website:** [https://your-streamlit-link.streamlit.app](https://student-marks-predictor-jpzhuqfvhd5p6slvjd53mc.streamlit.app/)
 
 
 ## GitHub Repository
 
-https://github.com/yourusername/Student-Marks-Prediction
+[https://github.com/yourusername/Student-Marks-Prediction](https://github.com/gitsbhumika22/Student-Marks-predictor)
 
 
 ## Project Overview
@@ -163,7 +163,7 @@ Student-Marks-Prediction/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Student-Marks-Prediction.git
+git clone [https://github.com/yourusername/Student-Marks-Prediction.git](https://github.com/gitsbhumika22/Student-Marks-predictor)
 ```
 
 ### Navigate to the Project Folder
