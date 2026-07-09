@@ -5,12 +5,12 @@ An end-to-end Machine Learning project that predicts a student's exam marks base
 
 ## Live Demo
 
-**Website:** [https://your-streamlit-link.streamlit.app](https://student-marks-predictor-jpzhuqfvhd5p6slvjd53mc.streamlit.app/)
+**Website:** [https://student-marks-predictor](https://student-marks-predictor-jpzhuqfvhd5p6slvjd53mc.streamlit.app/)
 
 
 ## GitHub Repository
 
-[https://github.com/yourusername/Student-Marks-Prediction](https://github.com/gitsbhumika22/Student-Marks-predictor)
+[https://github.com/gitsbhumika22/Student-Marks-Prediction](https://github.com/gitsbhumika22/Student-Marks-predictor)
 
 
 ## Project Overview
@@ -61,37 +61,7 @@ Custom dataset
 
 ## Machine Learning Workflow
 
-Problem Understanding 
-        │
-        ▼
-Dataset Collection
-        │
-        ▼
-Exploratory Data Analysis (EDA)
-        │
-        ▼
-Data Visualization
-        │
-        ▼
-Data Preprocessing
-        │
-        ▼
-Feature Selection
-        │
-        ▼
-Train-Test Split
-        │
-        ▼
-Linear Regression Model
-        │
-        ▼
-Model Evaluation
-        │
-        ▼
-Save Model (.pkl)
-        │
-        ▼
-Deploy with Streamlit
+Problem Understanding -> Dataset Collection -> Exploratory Data Analysis (EDA) -> Data Visualization -> Data Preprocessing ->Feature Selection -> Train-Test Split -> Linear Regression Model -> Model Evaluation -> Save Model (.pkl) -> Deploy with Streamlit
 
 
 ##  Exploratory Data Analysis (EDA)
@@ -163,7 +133,7 @@ Student-Marks-Prediction/
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/yourusername/Student-Marks-Prediction.git](https://github.com/gitsbhumika22/Student-Marks-predictor)
+git clone [https://github.com/gitsbhumika22/Student-Marks-Prediction.git](https://github.com/gitsbhumika22/Student-Marks-predictor)
 ```
 
 ### Navigate to the Project Folder
